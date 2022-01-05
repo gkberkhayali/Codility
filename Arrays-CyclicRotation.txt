@@ -5,7 +5,7 @@ An array A consisting of N integers is given. Rotation of the array means that e
 
 The goal is to rotate array A K times; that is, each element of A will be shifted to the right K times.
 
-Write a function:
+Write a  function:
 
 class Solution { public int[] solution(int[] A, int K); }
 
